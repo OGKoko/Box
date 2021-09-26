@@ -12,6 +12,8 @@ public:
 	Lista();
 	void AddElements(Box*);
 	void ListElements();
+	void ArrangeElements();
+	
 	
 };
 
